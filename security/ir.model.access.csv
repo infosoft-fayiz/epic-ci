@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_epic-pos-ci_epic-pos-ci,epic-pos-ci.epic-pos-ci,model_epic-pos-ci_epic-pos-ci,base.group_user,1,1,1,1
