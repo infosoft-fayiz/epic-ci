@@ -18,7 +18,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base', 'point_of_sale','epic-pos-dev'],
+    'depends': ['base', 'point_of_sale'],
 
     # always loaded
     'data': [
@@ -29,7 +29,7 @@
     ],
     'assets': {
         'point_of_sale.assets': [
-            'epic-pos-ci/static/src/js/product_screen.js',
+            'epic-pos-ci/static/src/js/payment_screen.js',
             # 'epic-pos-ci/static/src/xml/product_screen.xml'
         ]
     },
